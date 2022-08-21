@@ -1,0 +1,10 @@
+[
+{
+  "modid": "domcerpatcher",
+  "name": "DoMCer Patcher",
+  "description": "Bypass DoMCer Client Side Anti Cheat",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "authorList": ["ImFl0wow"]
+}
+]
