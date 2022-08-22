@@ -1,5 +1,9 @@
 DoMCer Patcher is a free and open-source FML Mod for Minecraft
 
+## How to Use
+- `RECOMMEND` Add some your own codes and build by yourself. It can be more customized.
+- `ONLY LEGIT CLIENT` Just dorp the release mod to your `.\.minecraft\mods` folder. If you use any cheating client with visual modules,you may get banned from DoMCer Network.
+
 ## Issues
 If you notice any bugs or missing features, you can let us know by opening an issue [here](https://github.com/Fl0wowP4rty/DoMCer-Patcher/issues).
 

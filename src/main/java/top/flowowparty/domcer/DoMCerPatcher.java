@@ -29,4 +29,20 @@ public class DoMCerPatcher {
         fakeUViewChannel = NetworkRegistry.INSTANCE.newEventDrivenChannel("UView");
         fakeUViewChannel.register(patcherListener);
     }
+
+    /**
+     * 您可以修改此方法来添加对Gui隐藏的支持
+     *
+     * @author ImFl0wow
+     */
+    public static void beforeScreenshot() {
+        // TODO
+    }
+    /**
+     * @author ImFl0wow
+     */
+    public static void afterScreenshot() {
+        // TODO
+    }
+
 }
